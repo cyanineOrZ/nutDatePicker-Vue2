@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@nutui/nutui": "2",
+    "dayjs": "^1.11.9",
+    "sass": "^1.62.0",
+    "sass-loader": "^13.2.2"
+  }
+}
